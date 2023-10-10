@@ -6,7 +6,6 @@ export default function Index() {
             <a href="https://mosaikkostudio.com">
                  mosaikkostudio.com
             </a>
-            .
         </p>
     );
 }
